@@ -4,11 +4,13 @@ repo: Monitoring-upptime # The name of this repository
 
 sites:
   - name: AlZamil-Store
-    url: https://store.zamilco.com/
-  - name: Arabia-Store
-    url: https://arabiatanks.com/
-  - name: Cementah-MP
-    url: https://cementah.com/
+    url: https://google.com
+  # - name: AlZamil-Store
+  #   url: https://store.zamilco.com/
+  # - name: Arabia-Store
+  #   url: https://arabiatanks.com/
+  # - name: Cementah-MP
+  #   url: https://cementah.com/
   # - name: IPv6 test
   #   url: forwardemail.net
   #   port: 80
