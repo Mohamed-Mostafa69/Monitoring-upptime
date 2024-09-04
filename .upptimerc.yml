@@ -4,9 +4,7 @@ repo: Monitoring-upptime # The name of this repository
 
 sites:
   - name: AlZamil-Store
-    url: https://google.com
-  # - name: AlZamil-Store
-  #   url: https://store.zamilco.com/
+    url: https://store.zamilco.com/
   # - name: Arabia-Store
   #   url: https://arabiatanks.com/
   # - name: Cementah-MP
