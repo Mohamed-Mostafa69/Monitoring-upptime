@@ -5,10 +5,10 @@ repo: Monitoring-upptime # The name of this repository
 sites:
   - name: AlZamil-Store
     url: https://store.zamilco.com/
-  # - name: Arabia-Store
-  #   url: https://arabiatanks.com/
-  # - name: Cementah-MP
-  #   url: https://cementah.com/
+  - name: Arabia-Store
+    url: https://arabiatanks.com/
+  - name: Cementah-MP
+    url: https://cementah.com/
   # - name: IPv6 test
   #   url: forwardemail.net
   #   port: 80
@@ -29,6 +29,16 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "2-59/5 * * * *"
+
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
