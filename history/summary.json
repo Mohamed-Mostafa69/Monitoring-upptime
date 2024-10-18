@@ -4,28 +4,30 @@
     "url": "https://store.zamilco.com/",
     "icon": "https://icons.duckduckgo.com/ip3/store.zamilco.com.ico",
     "slug": "al-zamil-store",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 557,
     "timeDay": 452,
     "timeWeek": 1740,
     "timeMonth": 745,
     "timeYear": 557,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-18": 3
+    }
   },
   {
     "name": "Arabia-Store",
     "url": "https://arabiatanks.com/",
     "icon": "https://icons.duckduckgo.com/ip3/arabiatanks.com.ico",
     "slug": "arabia-store",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 821,
@@ -33,14 +35,16 @@
     "timeWeek": 893,
     "timeMonth": 828,
     "timeYear": 821,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-18": 2
+    }
   },
   {
     "name": "Cementah-MP",
     "url": "https://cementah.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cementah.com.ico",
     "slug": "cementah-mp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +55,8 @@
     "timeWeek": 342,
     "timeMonth": 276,
     "timeYear": 254,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-18": 0
+    }
   }
 ]
